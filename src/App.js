@@ -9,7 +9,7 @@ return (
 <CurrentLocation />
 </div>
 <div className="footer-info">
-<a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+<a href="https://github.com/SOHAGBANDYOPADHYAY/react-weather-app">
 Download Source Code
 </a>{" "}
 | Developed by{" "}
